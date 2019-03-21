@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projects/Clion/Lab_3/TDate.h
+ctime
+-
+
+D:/Projects/Clion/Lab_5/main.cpp
+iostream
+-
+string
+-
+cstring
+-
+../Lab_3/TDate.h
+D:/Projects/Clion/Lab_3/TDate.h
+
